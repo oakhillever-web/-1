@@ -31,3 +31,10 @@ python3 -m http.server 8000
 - Production branch: `main`
 
 main에 푸시하면 자동으로 배포됩니다.
+
+## 진행 현황
+- [x] 사이트 기본 구조 (자리표시용 문구)
+- [ ] 실제 회사 정보와 문구 반영
+- [ ] Cloudflare Pages 연결
+- [ ] 도메인 연결
+- [ ] 문의 폼 (필요 시 Supabase)
