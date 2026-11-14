@@ -17,7 +17,7 @@ robots.txt          검색엔진 수집 허용
 ## 로컬에서 보기
 
 ```
-python3 -m http.server 8000
+python -m http.server 8000
 ```
 
 브라우저에서 http://localhost:8000 을 엽니다.
